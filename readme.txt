@@ -1,1 +1,2 @@
-linux—centos研究过程。
+
+linux—CentOS研究过程。
